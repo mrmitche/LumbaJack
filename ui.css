@@ -1,0 +1,36 @@
+#buttons {
+	position:relative;
+}
+
+#left {
+	position:absolute;
+	top:27px;
+}
+
+#up {
+	position:absolute;
+	top:0px;
+	left:44px;
+}
+
+#down {
+	position:absolute;
+	top:54px;
+	left:44px;
+}
+
+#right {
+	position:absolute;
+	top:27px;
+	left:88px;	
+}
+
+#water {
+	position: absolute;
+	left:148px;
+}
+
+#chop {
+	position: absolute;
+	left:202px;
+}
